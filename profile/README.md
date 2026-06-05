@@ -78,7 +78,7 @@ For slow sessions, reduce display resolution, close local bandwidth-heavy apps, 
 
 ---
 
-![Virtual desktop session running through VM Horizon Client on a laptop](https://cdn.browsercam.com/img/com.vmware.view.client.android-header.png)
+![Virtual desktop session running through VM Horizon Client on a laptop](https://cdn.slidesharecdn.com/ss_thumbnails/vmwarehorizon-230328073914-623ce449-thumbnail.jpg?width=640&height=640&fit=bounds)
 
 ---
 
